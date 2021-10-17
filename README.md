@@ -8,4 +8,4 @@
 - video: https://github.com/meangpu/Teaching2021/blob/main/lab5/problem3/Video/lab5part3.gif
 
 ## Lab6
-### Part1 - https://meangpu.github.io/Teaching2021/lab6/Problem1/Web//
+### Problem1 - https://meangpu.github.io/Teaching2021/lab6/Problem1/Web//
