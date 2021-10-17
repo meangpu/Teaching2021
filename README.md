@@ -10,4 +10,8 @@
 ## Lab6
 ### Problem1 
 - Webbuild: https://meangpu.github.io/Teaching2021/lab6/Problem1/Web/
-- Image: https://github.com/meangpu/Teaching2021/tree/main/lab6/Problem1/Image
+- Image: https://github.com/meangpu/Teaching2021/tree/main/lab6/Problem1/Image 
+### Problem2
+- lab6p2p1: https://github.com/meangpu/Teaching2021/blob/main/lab6/Problem2/lab6p2p1.gif
+- lab6p2p2: https://github.com/meangpu/Teaching2021/blob/main/lab6/Problem2/lab6p2p2.gif
+
